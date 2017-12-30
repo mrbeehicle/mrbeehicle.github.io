@@ -118,3 +118,7 @@ a:link, a:visited {
         width: 100%;
     }
 }
+
+.you {
+    border-radius: 50%;
+}
